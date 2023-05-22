@@ -1,0 +1,39 @@
+.content {
+	height: 500px;
+	background-color: $bgColor;
+	overflow: hidden;
+}
+
+.content__circle {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	position: relative;
+	left: 50%;
+	top: 82%;
+	transform: translate(-50%, -50%);
+	background-color: $circleStart;
+	animation-name: circleMove;
+	animation-duration: 9s;
+	animation-timing-function: linear;
+	animation-iteration-count: 3;
+}
+
+@keyframes circleMove{
+	0%{
+		top: 82%;
+		background-color: $circleStart;
+	}
+	33%{
+		top: 123%;
+		background-color: $circleThird;
+	}
+	66%{
+		background-color: $circleCenter;
+		top: 50%;
+	}
+	100%{
+		top: 82%;
+		background-color: $circleStart;
+	}
+}
