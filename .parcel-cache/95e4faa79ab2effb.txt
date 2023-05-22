@@ -4,7 +4,7 @@
 51C:\Users\Mariia\CircleAnimation\node_modules\braces133291371861437860 1
 79C:\Users\Mariia\CircleAnimation\node_modules\@parcel\logger\test\Logger.test.js133291371858887850 0
 76C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\regions\AX.js133291371921317711 0
-36C:\Users\Mariia\CircleAnimation\dist133291554604480688 1
+36C:\Users\Mariia\CircleAnimation\dist133292150108387989 1
 96C:\Users\Mariia\CircleAnimation\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133291371913777740 0
 67C:\Users\Mariia\CircleAnimation\node_modules\escalade\sync\index.js133291371855097871 0
 76C:\Users\Mariia\CircleAnimation\node_modules\lmdb\dependencies\lz4\lib\lz4.c133291371910197735 0
@@ -72,7 +72,7 @@
 83C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\minmaxwh.js133291372067438545 0
 79C:\Users\Mariia\CircleAnimation\node_modules\msgpackr\dist\index-no-eval.min.js133291371881967853 0
 98C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\font-variant-alternates.js133291372037833296 0
-54C:\Users\Mariia\CircleAnimation\src\styles\circle.scss133291554600500667 0
+54C:\Users\Mariia\CircleAnimation\src\styles\circle.scss133292148800074985 0
 59C:\Users\Mariia\CircleAnimation\node_modules\normalize-path133291371855567890 1
 113C:\Users\Mariia\CircleAnimation\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json133291372012422762 0
 92C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\createimagebitmap.js133291371971417590 0
@@ -86,7 +86,7 @@
 55C:\Users\Mariia\CircleAnimation\node_modules\fill-range133291371855367873 1
 67C:\Users\Mariia\CircleAnimation\node_modules\supports-color\license133291371848397880 0
 85C:\Users\Mariia\CircleAnimation\node_modules\@parcel\utils\src\generateCertificate.js133291371900867781 0
-53C:\Users\Mariia\CircleAnimation\src\styles\color.scss133291378779319325 0
+53C:\Users\Mariia\CircleAnimation\src\styles\color.scss133292149809069931 0
 92C:\Users\Mariia\CircleAnimation\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.c133291371929797769 0
 90C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\payment-request.js133291372082788512 0
 50C:\Users\Mariia\CircleAnimation\node_modules\json5133291371883797830 1
@@ -94,7 +94,7 @@
 79C:\Users\Mariia\CircleAnimation\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133291371988887560 0
 76C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\regions\VN.js133291372147129557 0
 54C:\Users\Mariia\CircleAnimation\src\styles\global.scss133291374700718463 0
-54C:\Users\Mariia\CircleAnimation\src\styles\review.scss133291500184479960 0
+54C:\Users\Mariia\CircleAnimation\src\styles\review.scss133292149851226728 0
 58C:\Users\Mariia\CircleAnimation\node_modules\picomatch\lib133291371870087822 1
 95C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\document-execcommand.js133291372025663280 0
 88C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\server-timing.js133291372094388481 0
@@ -1213,7 +1213,7 @@
 91C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\text-size-adjust.js133291372101588466 0
 57C:\Users\Mariia\CircleAnimation\node_modules\chokidar\lib133291371861057829 1
 66C:\Users\Mariia\CircleAnimation\node_modules\chokidar\package.json133291371869217835 0
-59C:\Users\Mariia\CircleAnimation\dist\index.867122b9.css.map133291554604460680 0
+59C:\Users\Mariia\CircleAnimation\dist\index.867122b9.css.map133292150107307948 0
 80C:\Users\Mariia\CircleAnimation\node_modules\@parcel\watcher\src\watchman\IPC.hh133291371907207759 0
 63C:\Users\Mariia\CircleAnimation\node_modules\chokidar\README.md133291371873347829 0
 78C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\u2f.js133291372142129590 0
@@ -1518,7 +1518,7 @@
 95C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133291372003982798 0
 89C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133291372004122801 0
 90C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\media-fragments.js133291372065528511 0
-68C:\Users\Mariia\CircleAnimation\dist\CircleAnimation.3464ddca.js.map133291540295870760 0
+68C:\Users\Mariia\CircleAnimation\dist\CircleAnimation.3464ddca.js.map133292150107607992 0
 95C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\css-display-contents.js133291372004512786 0
 89C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\css-exclusions.js133291372004982803 0
 99C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\css-file-selector-button.js133291372005562776 0
@@ -1635,7 +1635,7 @@
 90C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\element-closest.js133291372028133294 0
 93C:\Users\Mariia\CircleAnimation\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node133291371908127733 0
 78C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\eme.js133291372028393317 0
-64C:\Users\Mariia\CircleAnimation\dist\CircleAnimation.3464ddca.js133291540295690762 0
+64C:\Users\Mariia\CircleAnimation\dist\CircleAnimation.3464ddca.js133292150107497950 0
 78C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\es5.js133291372028973300 0
 84C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\es6-class.js133291372029033308 0
 100C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133291372029183291 0
@@ -1648,7 +1648,7 @@
 74C:\Users\Mariia\CircleAnimation\node_modules\@mischnic\json-sourcemap\dist133291371864927845 1
 92C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\fieldset-disabled.js133291372031983297 0
 82C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\fileapi.js133291372032163339 0
-55C:\Users\Mariia\CircleAnimation\dist\index.867122b9.css133291554604320699 0
+55C:\Users\Mariia\CircleAnimation\dist\index.867122b9.css133292150106907957 0
 85C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\filereader.js133291372032243303 0
 85C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\filesystem.js133291372032403272 0
 79C:\Users\Mariia\CircleAnimation\node_modules\caniuse-lite\data\features\flac.js133291372034003289 0
@@ -2323,4 +2323,4 @@
 60C:\Users\Mariia\CircleAnimation\node_modules\.bin\semver.ps1133291372158784815 0
 76C:\Users\Mariia\CircleAnimation\node_modules\.bin\update-browserslist-db.cmd133291372158794756 0
 76C:\Users\Mariia\CircleAnimation\node_modules\.bin\update-browserslist-db.ps1133291372158619528 0
-47C:\Users\Mariia\CircleAnimation\dist\index.html133291540295680777 0
+47C:\Users\Mariia\CircleAnimation\dist\index.html133292150108367989 0

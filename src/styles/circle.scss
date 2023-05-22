@@ -12,7 +12,7 @@
 	left: 50%;
 	top: 82%;
 	transform: translate(-50%, -50%);
-	background-color: $circleStart;
+	background-color: $circleOrange;
 	animation-name: circleMove;
 	animation-duration: 9s;
 	animation-timing-function: linear;
@@ -22,18 +22,18 @@
 @keyframes circleMove{
 	0%{
 		top: 82%;
-		background-color: $circleStart;
+		background-color: $circleOrange;
 	}
 	33%{
 		top: 123%;
-		background-color: $circleThird;
+		background-color: $circleYellow;
 	}
 	66%{
-		background-color: $circleCenter;
+		background-color: $circleWhite;
 		top: 50%;
 	}
 	100%{
 		top: 82%;
-		background-color: $circleStart;
+		background-color: $circleOrange;
 	}
 }
