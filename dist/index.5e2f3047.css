@@ -1,0 +1,23 @@
+.slick-track {
+  display: flex;
+}
+
+.slick-list {
+  margin: 0;
+  padding: 0;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.slick-list:focus {
+  outline: none;
+}
+
+.slick-arrow {
+  z-index: 10;
+  position: absolute;
+  top: 50%;
+}
+
+/*# sourceMappingURL=index.5e2f3047.css.map */
