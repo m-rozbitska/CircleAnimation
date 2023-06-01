@@ -1,9 +1,4 @@
 $(document).ready(function() {
-    //  $('.slider').slick({
-    // // 	infinite: true,
-    // // 	//slidesToShow: 3,
-    // // 	slidesToScroll: 3,
-    // })
     $(".slider__main").slick({
         infinite: true,
         slidesToShow: 1,
@@ -20,7 +15,7 @@ $(document).ready(function() {
         focusOnSelect: true,
         centerMode: true,
         // centerPadding: '10px',
-        responsive: [
+        slider__nav: [
             {
                 breakpoint: 769,
                 settings: {
@@ -40,12 +35,6 @@ $(document).ready(function() {
             }
         ]
     });
-}); // $(function(){
- // 	$('.slider').slick({
- // 		infinite: true,
- // 		slidesToShow: 3,
- // 		slidesToScroll: 3
- // 	})
- // })
+});
 
 //# sourceMappingURL=index.09c24910.js.map
