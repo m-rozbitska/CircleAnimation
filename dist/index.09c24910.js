@@ -14,23 +14,33 @@ $(document).ready(function() {
         asNavFor: ".slider__main",
         focusOnSelect: true,
         centerMode: true,
-        // centerPadding: '10px',
-        slider__nav: [
+        centerPadding: "30px",
+        responsive: [
             {
-                breakpoint: 769,
+                breakpoint: 1024,
                 settings: {
-                    arrows: false,
-                    centerMode: true,
-                    slidesToShow: 2
+                    slidesToShow: 3,
+                    slidesToScroll: 3,
+                    infinite: true
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    variableWidth: true,
+                    dots: false
                 }
             },
             {
                 breakpoint: 481,
                 settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
                     arrows: false,
-                    centerMode: true,
-                    centerPadding: "40px",
-                    slidesToShow: 1
+                    dots: false,
+                    variableWidth: true
                 }
             }
         ]
